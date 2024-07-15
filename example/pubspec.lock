@@ -178,8 +178,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: cf149b09d3f55a1b1444bec01af131e173fd962c
-      url: "https://github.com/yeikel16/tele_web_app.git"
+      resolved-ref: "97e19315384e71339d0547273e658ee4266a4269"
+      url: "https://github.com/zwaa0902/tele_web_app.git"
     source: git
     version: "0.0.1"
   term_glyph:
